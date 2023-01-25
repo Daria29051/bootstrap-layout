@@ -1,0 +1,80 @@
+.page-container {
+    min-height: 100vh;
+    border: 1px solid black;
+    
+}
+
+/* Header */
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: grey;
+}
+
+.nav-link-active {
+    color: white;   
+}
+
+
+.navbar {
+
+}
+.container-navbar {
+    padding: 0 100px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-top: 10px;
+}
+
+/* Main part */
+
+.container-main {
+    border: 1px solid red;
+    max-width: 75%;
+
+}
+
+.row-welcome {
+    border-radius: 7px;
+    padding: 40px 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    color: #cbc7c7;
+    max-height: 35vh;
+}
+
+.row-card {
+    margin-bottom: 20px;
+    
+}
+
+
+/* Footer */
+
+.row-footer {
+    color: white;
+    width: 10vh;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.container-footer  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 10vh;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+
