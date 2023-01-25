@@ -54,14 +54,6 @@
 
 /* Footer */
 
-.row-footer {
-    color: white;
-    width: 10vh;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 7px;
-    margin-bottom: 10px;
-}
-
 .container-footer  {
     display: flex;
     justify-content: center;
@@ -73,8 +65,5 @@
     margin-bottom: 20px;
 }
 
-.footer-text {
-    text-align: center;
-}
 
 
