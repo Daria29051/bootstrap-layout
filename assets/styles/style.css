@@ -32,7 +32,6 @@
 /* Main part */
 
 .container-main {
-    border: 1px solid red;
     max-width: 75%;
 
 }
@@ -50,11 +49,6 @@
     margin-bottom: 20px;
     
 }
-
-.card-1 {
-    margin-left: -12px;
-}
-
 
 
 /* Footer */
